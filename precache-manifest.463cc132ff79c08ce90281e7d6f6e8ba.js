@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c982bb2a6f9feb9ab8120ea88838e70",
+    "revision": "21ab13e777a0ff172ee1449bc0edeb33",
     "url": "/humble-beeing-website-2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/humble-beeing-website-2/static/css/2.613e8d29.chunk.css"
   },
   {
-    "revision": "bf0f16a54d9209e726fc",
+    "revision": "8b0896ab3a74fc60be4c",
     "url": "/humble-beeing-website-2/static/css/main.61c6323c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/humble-beeing-website-2/static/js/2.fd65c910.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf0f16a54d9209e726fc",
-    "url": "/humble-beeing-website-2/static/js/main.7902dfb3.chunk.js"
+    "revision": "8b0896ab3a74fc60be4c",
+    "url": "/humble-beeing-website-2/static/js/main.8448823d.chunk.js"
   },
   {
     "revision": "ec4e014da6688d8dcdde",
