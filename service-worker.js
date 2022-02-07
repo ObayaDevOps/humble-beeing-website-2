@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/humble-beeing-website-2/precache-manifest.319d4dbb8f8cca44317c1f1048f7d443.js"
+  "/humble-beeing-website-2/precache-manifest.a74f506305e299476ce4281b59fc8cc8.js"
 );
 
 self.addEventListener('message', (event) => {
