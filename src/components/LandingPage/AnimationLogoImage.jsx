@@ -56,9 +56,6 @@ export default class AnimationLogoImage extends React.Component {
                             style={{ padding: "1em 0em" }} 
 
                         />
-                        <Input size="big" icon="mail" inverted placeholder='Email ...' />
-                        <Divider hidden />
-                        <Button>Sign Up for Honey Drops !</Button>
                     </Container>
                 </Transition>
 

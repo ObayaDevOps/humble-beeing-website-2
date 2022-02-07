@@ -21,7 +21,7 @@ import {
 
 import "semantic-ui-css/semantic.min.css";
 
-import { Switch, HashRouter, BrowserRouter, Link, Route, NavLink } from "react-router-dom";
+import { Switch, HashRouter, Link, Route, NavLink } from "react-router-dom";
 import { HomepageContentContainer } from '../components/LandingPage/HomepageContentContainer';
 import Shop from './experiment/Shop';
 import ContactUsPageComponent from './Pages/ContactUsPageComponent';
@@ -103,7 +103,7 @@ export default class DesktopContainer extends Component {
 
     return (
       <Responsive minWidth={Responsive.onlyTablet.minWidth}>
-             <BrowserRouter>
+             <HashRouter>
               <Menu                
                 fixed="top"
                 inverted
@@ -152,7 +152,7 @@ export default class DesktopContainer extends Component {
                   </Menu.Item>  
                   
 
-                  <Menu.Item
+                  {/* <Menu.Item
                     to="/world_of_bees"
                     style={{ color:"#bf9000" }} 
                     as={Link}
@@ -162,9 +162,9 @@ export default class DesktopContainer extends Component {
                     active={activeItem === 'world_of_bees'}
                     >
                       World of Bees                    
-                  </Menu.Item>   
+                  </Menu.Item>    */}
 
-                  <Menu.Item
+                  {/* <Menu.Item
                     to="/raw_honey"
                     style={{ color:"#bf9000" }} 
                     as={Link}
@@ -174,9 +174,9 @@ export default class DesktopContainer extends Component {
                     active={activeItem === 'raw_honey'}
                     >
                       Raw Honey                    
-                  </Menu.Item>  
+                  </Menu.Item>   */}
 
-                  <Menu.Item
+                  {/* <Menu.Item
                     to="/gallery"
                     style={{ color:"#bf9000" }} 
                     as={Link}
@@ -186,7 +186,7 @@ export default class DesktopContainer extends Component {
                     active={activeItem === 'gallery'}
                     >
                       Gallery                    
-                  </Menu.Item>                                    
+                  </Menu.Item>                                     */}
 
                   <Menu.Item
                     href='https://medium.com/@humble-beeing' target='_blank'
@@ -196,7 +196,7 @@ export default class DesktopContainer extends Component {
                       Blog
                   </Menu.Item>
 
-                  <Menu.Item
+                  {/* <Menu.Item
                     to="/shop"
                     style={{ color:"#bf9000" }} 
                     as={Link}
@@ -204,7 +204,7 @@ export default class DesktopContainer extends Component {
                     name='shop' 
                     active={activeItem === 'shop'}>
                       Shop
-                  </Menu.Item>
+                  </Menu.Item> */}
 
                   <Menu.Item
                     to="/contact"
@@ -243,7 +243,7 @@ export default class DesktopContainer extends Component {
               <Route exact path="/world_of_bees" component={WorldOfBeesPageComponent} />
              </Switch>
 
-             </BrowserRouter>
+             </HashRouter>
       </Responsive>
 
     );

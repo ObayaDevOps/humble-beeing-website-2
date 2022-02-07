@@ -43,7 +43,7 @@ const PageContent = () => (
                             </p>
                             <p style={{ fontSize: "1.33em" }}>
                                 In June of 2021, in the midst of a Global Pandemic, I quit my job as a Software Engineer at an Investment Bank in London and decided to move back home (Kampala, Uganda) and pursue my passion of full-time beekeeping !
-                                I completed a beekeeping training course at Hackney City arm but still, a tiny bit of a risk :)
+                                I completed a beekeeping training course at Hackney City Farm.
                             </p>
                             <p style={{ fontSize: "1.55em" }}>
                               A Computer Scientist Beekeeper ? Bit of a waste of skills, No* ? <span role="img" aria-label="robot">🤖</span>
@@ -62,9 +62,6 @@ const PageContent = () => (
                               - Democratic Decision Making, - Honeybee methods of communication (Bee dance, physical, highly local; Queen phermones, chemical, widespread, Bee running to encourage swarm, physical)
                                 </p>
                                 <p style={{ fontSize: "1.33em" }}>
-                                  I'm also not the first to find these creatures to be amazing, if we look back through history, the honey bee is prominent across ages and cultures. there's a whole book in the Quran called the Bee, The land of milk and honey in the bible, the bee being the symbol of the king of egypt,
-                                 </p>
-                                 <p style={{ fontSize: "1.33em" }}>
                                   I'm also not the first to find these creatures to be amazing, if we look back through history, the honey bee is prominent across ages and cultures. there's a whole book in the Quran called the Bee, The land of milk and honey in the bible, the bee being the symbol of the king of egypt,
                                  </p>
                                  <p style={{ fontSize: "0.83em" }}>

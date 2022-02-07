@@ -29,7 +29,7 @@ class TeamAboutCards extends Component {
               </Card>
               
               <Card>
-              <Image src={require('../../assets/teamPhotos/AnguyoPFP.jpg')} wrapped ui={false} />
+              <Image src={require('../../assets/teamPhotos/LetaruPFP.png')} wrapped ui={false} />
                 <Card.Content>
                   <Card.Header>Letaru</Card.Header>
                   <Card.Meta>

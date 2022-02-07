@@ -67,7 +67,7 @@ export default class RoadmapPageComponent extends Component {
                             <Image
                                 rounded
                                 fluid
-                                src={require('../../assets/otherImages/fruit-3247447_1920.jpg')}
+                                src={require('../../assets/phasePlanPhotos/ObayaHoney.png')}
                                 style = {{
                                     paddingBottom : window.screen.width <= Responsive.onlyMobile.maxWidth ? "3em" : "0em"
                                 }}
@@ -94,7 +94,7 @@ export default class RoadmapPageComponent extends Component {
                             <Image
                                 rounded
                                 fluid
-                                src={require('../../assets/otherImages/fruit-3247447_1920.jpg')}
+                                src={require('../../assets/phasePlanPhotos/HBBagsPhoto.png')}
                                 style = {{
                                     paddingBottom : window.screen.width <= Responsive.onlyMobile.maxWidth ? "3em" : "0em"
                                 }}
@@ -132,7 +132,7 @@ export default class RoadmapPageComponent extends Component {
                             <Image
                                 rounded
                                 fluid
-                                src={require('../../assets/otherImages/fruit-3247447_1920.jpg')}
+                                src={require('../../assets/phasePlanPhotos/IotHiveComponents.jpg')}
                                 style = {{
                                     paddingBottom : window.screen.width <= Responsive.onlyMobile.maxWidth ? "3em" : "0em"
                                 }}
@@ -158,7 +158,7 @@ export default class RoadmapPageComponent extends Component {
                             <Image
                                 rounded
                                 fluid
-                                src={require('../../assets/otherImages/fruit-3247447_1920.jpg')}
+                                src={require('../../assets/phasePlanPhotos/RogerPlusTeamFieldPhoto.jpg')}
                                 style = {{
                                     paddingBottom : window.screen.width <= Responsive.onlyMobile.maxWidth ? "3em" : "0em"
                                 }}
@@ -189,7 +189,7 @@ export default class RoadmapPageComponent extends Component {
                             <Image
                                 rounded
                                 fluid
-                                src={require('../../assets/otherImages/fruit-3247447_1920.jpg')}
+                                src={require('../../assets/phasePlanPhotos/HBJarPhoto.jpg')}
                                 style = {{
                                     paddingBottom : window.screen.width <= Responsive.onlyMobile.maxWidth ? "3em" : "0em"
                                 }}
