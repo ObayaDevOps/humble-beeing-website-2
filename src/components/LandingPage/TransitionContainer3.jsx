@@ -29,7 +29,7 @@ export default class TransitionContainer3 extends Component {
                                     <p style={{ fontSize: "1.33em" }}>
                                         We also have extensive experience with Technology and Software Development and we have huge plans to merge the worlds of Nature and Technology ... Check out our Roadmap page for more !
                                     </p>
-                                    <Button as='a' href='/roadmap'>Our Roadmap</Button>
+                                    {/* <Button as='a' href='/roadmap'>Our Roadmap</Button> */}
                                 </Grid.Column>
                                 <Grid.Column floated="right" mobile={16} tablet={16} computer={10}>
                                     <Image
