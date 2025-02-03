@@ -107,7 +107,7 @@ const PageContent = () => (
                             Phone (Airtel)
                           </Header>
                           <Header as="h3"  style={{ fontSize: "2.1em", color: "#bf9000" }}>
-                            +256 75 446 541
+                            +256 750 446 541
                           </Header>
                     </Grid.Column>
                     <Grid.Column  centered textAlign="center" mobile={16} tablet={16} computer={10} >
@@ -115,7 +115,7 @@ const PageContent = () => (
                             Phone (MTN)
                             </Header>
                             <Header as="h3"  style={{ fontSize: "2.1em", color: "#bf9000" }}>
-                            +256  78 554 613
+                            +256  789 062 116
                           </Header>
                     </Grid.Column>
                       
